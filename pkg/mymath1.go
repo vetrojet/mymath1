@@ -1,4 +1,4 @@
-package mymath1
+package pkg
 
 import "math"
 
