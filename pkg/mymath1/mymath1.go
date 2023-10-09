@@ -15,4 +15,8 @@ func Asin(x float64) float64 {
 	return math.Asin(x)
 }
 
+func Max(x, y float64) float64 {
+	return math.Max(x, y)
+}
+
 // Другие математические функции...
